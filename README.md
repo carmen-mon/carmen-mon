@@ -1,6 +1,6 @@
 <h2 align="center">Desarrollador de Inteligencia Artificial | Analista de Datos Junior</h2>
 <h4 align="center">
-¡Hola! Soy apasionada de la inteligencia artificial y el análisis de datos, con formación en Física y Matemáticas. Mi objetivo es contribuir al desarrollo de soluciones utilizando el poder del aprendizaje profundo.</h4>
+¡Hola! Soy apasionada de la inteligencia artificial y el análisis de datos, con formación en Física y Matemáticas. Mi objetivo es contribuir al desarrollo de soluciones utilizando el poder del aprendizaje profundo. A largo plazo, aspiro a desempeñarme como científico de datos y aplicar mis conocimientos para abordar desafíos en diversas industrias.</h4>
 
 ### Resumen Profesional
 
@@ -16,6 +16,3 @@ Como principiante en el mundo del deep learning, estoy emocionada por aprender y
 
 - Licenciatura en Física y Matemáticas | Escuela Superior de Física y Matemáticas IPN
 
-### Intereses y Objetivos
-
-Mi pasión por el desarrollo de inteligencia artificial y el análisis de datos me motiva a seguir aprendiendo y mejorando mis habilidades. Me encantaría participar en proyectos de código abierto y contribuir a la comunidad de aprendizaje automático. A largo plazo, aspiro a desempeñarme como científico de datos y aplicar mis conocimientos para abordar desafíos en diversas industrias.
